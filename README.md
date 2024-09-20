@@ -43,10 +43,6 @@ Sou apaixonada por dados e por como eles podem transformar negócios. Busco cons
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jullianapolli&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true&hide=stars)
-
 
 
 
