@@ -5,7 +5,7 @@
 Deixa eu te contar um pouquinho sobre mim. 
 Sou apaixonada por gatos e adoro estar cercada pela natureza. 
 
-Tenho mais de 2 anos de experiência na área de dados e tecnologia, com formação em Ciência de Dados e especialização em Inteligência Artificial. Tenho sólida expertise em ferramentas de Business Intelligence, como Power BI, além de habilidades em SQL, MongoDB e MySQL.
+Tenho mais de 3 anos de experiência na área de dados e tecnologia, com formação em Ciência de Dados e especialização em Inteligência Artificial. Tenho sólida expertise em ferramentas de Business Intelligence, como Power BI, além de habilidades em SQL, MongoDB e MySQL.
 
 Na DataforAll®, atuei como Analista de Dados, de Negócios e Product Owner, liderando projetos de análise avançada de dados e desenvolvimento de dashboards, otimizando a visualização e análise de KPIs críticos. Também conduzi consultas SQL complexas para extração de insights valiosos, além de coordenar campanhas de CRM e estratégias de growth, gerenciando métricas de desempenho em plataformas como LinkedIn e Meta. Fui responsável por grandes contas, como NISSAN LATAM, KENVUE, LEWLARA e CEJAM, documentando e estruturando projetos de forma eficiente para garantir clareza e organização para os stakeholders.
 
