@@ -1,9 +1,10 @@
-
+---
+icon: hand-wave
+---
 
 # Oii! Eu sou a Juliana Poli.
 
-Deixa eu te contar um pouquinho sobre mim. 
-Sou apaixonada por gatos e adoro estar cercada pela natureza. 
+Deixa eu te contar um pouquinho sobre mim. Sou apaixonada por gatos e adoro estar cercada pela natureza.
 
 Tenho mais de 3 anos de experiência na área de dados e tecnologia, com formação em Ciência de Dados e especialização em Inteligência Artificial. Tenho sólida expertise em ferramentas de Business Intelligence, como Power BI, além de habilidades em SQL, MongoDB e MySQL.
 
@@ -17,33 +18,8 @@ Sou apaixonada por dados e por como eles podem transformar negócios. Busco cons
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jullianapolli/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jullianapolli)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jullianapolli@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5547992275017)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jullianapolli/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jullianapolli) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:jullianapolli@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+5547992275017)
 
 ### Habilidades
 
-
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft_PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft_SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-
-
-
-
-
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git\&logoColor=E94D5F)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=30A3DC)](https://docs.github.com/) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge\&logo=figma\&logoColor=figma) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge\&logo=markdown) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge\&logo=windows\&logoColor=2CA5E0) ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=Power%20BI\&logoColor=white) ![Microsoft\_Excel](https://img.shields.io/badge/Microsoft\_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white) ![Microsoft\_Office](https://img.shields.io/badge/Microsoft\_Office-D83B01?style=for-the-badge\&logo=microsoft-office\&logoColor=white) ![Microsoft\_PowerPoint](https://img.shields.io/badge/Microsoft\_PowerPoint-B7472A?style=for-the-badge\&logo=microsoft-powerpoint\&logoColor=white) ![Microsoft\_SharePoint](https://img.shields.io/badge/Microsoft\_SharePoint-0078D4?style=for-the-badge\&logo=microsoft-sharepoint\&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
