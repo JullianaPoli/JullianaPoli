@@ -2,7 +2,7 @@
 icon: id-card
 ---
 
-# Juliana Poli
+# Curriculo Juliana Poli
 
 **Analista de Dados | PO | Inteligência Artificial | Power BI | SQL | Python**\
 Santa Catarina, Brasil
@@ -11,7 +11,7 @@ Santa Catarina, Brasil
 
 * Localização: Nova Trento - SC
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:jullianapolli@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jullianapolli)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:jullianapolli@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JullianaPoli)
 
 ***
 
