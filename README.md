@@ -1,10 +1,4 @@
----
-icon: hand-wave
-cover: .gitbook/assets/_a38633bc-e327-4f9a-84f6-60e1446c998b.jpg
-coverY: 0
----
-
-# My GitHub
+# I AM
 
 Deixa eu te contar um pouquinho sobre mim. Sou apaixonada por gatos e adoro estar cercada pela natureza.
 
