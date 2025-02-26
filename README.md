@@ -1,6 +1,5 @@
 # I AM
 
-Deixa eu te contar um pouquinho sobre mim. Sou apaixonada por gatos e adoro estar cercada pela natureza.
 
 Tenho mais de 3 anos de experiência na área de dados e tecnologia, com formação em Ciência de Dados e especialização em Inteligência Artificial. Tenho sólida expertise em ferramentas de Business Intelligence, como Power BI, além de habilidades em SQL, MongoDB e MySQL.
 
