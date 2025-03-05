@@ -4,12 +4,8 @@ icon: id-card
 
 # Curriculo Juliana Poli
 
-**Analista de Dados | PO | Inteligência Artificial | Power BI | SQL | Python**\
-Santa Catarina, Brasil
+Data Scientist | Project Manager | PO | Python | AI\
 
-### Contato <a href="#contato" id="contato"></a>
-
-* Localização: Nova Trento - SC
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:jullianapolli@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JullianaPoli)
 
@@ -17,11 +13,33 @@ Santa Catarina, Brasil
 
 ### Resumo <a href="#resumo" id="resumo"></a>
 
-✨ Cientista de Dados e Especialista em Inteligência Artificial com mais de 3 anos de experiência em análise avançada de dados, gestão de projetos e visualização de insights estratégicos para grandes contas. Especialização em ferramentas de Business Intelligence (Power BI) e sólido domínio em SQL, MongoDB e MySQL.
+✨ Meu nome é Juliana Poli, sou Cientista de Dados com especialização em Inteligência Artificial e Ciência de Dados, formada pela UNINTER e Estácio, com sólida experiência de mais de 3 anos em dados e tecnologia, e mais de 10 anos de experiência em gestão de pessoas.
 
-Na DataforAll®, atuei como Analista de Dados e Product Owner, liderando projetos de ponta a ponta, desde a extração e estruturação de dados complexos até o desenvolvimento de dashboards personalizados para NISSAN LATAM, KENVUE, LEWLARA e CEJAM. Meu trabalho incluiu a otimização de KPIs e a coordenação de campanhas de CRM e estratégias de growth em plataformas de mídia como LinkedIn e Meta. Participei de um projeto em larga escala para Coca-Cola, analisando dados de vendas de plataformas de delivery (iFood, Zé Delivery, Rappi) em múltiplos países da América Latina, contribuindo com insights para decisões de mercado e estratégias regionais.
+Na área técnica, destaco minhas hard skills, como:
 
-Na BJNET, fui Coordenadora de Suporte, onde desenvolvi estratégias de retenção que impulsionaram o engajamento e a satisfação dos clientes, refinando processos e liderando uma equipe de alta performance.
+• Linguagens de programação e ferramentas de dados: Python, SQL, MongoDB, MySQL e Power BI.
+
+• Gestão de projetos e produtos: Experiência como Product Owner em projetos estratégicos para grandes contas, como NISSAN LATAM, Coca-Cola e Kenvue, liderando equipes e desenvolvendo dashboards e relatórios.
+
+• Business Intelligence e Data Analytics: Criação de dashboards, monitoramento de métricas de desempenho e atuação em campanhas de growth e CRM.
+
+• Serviços em nuvem: Integração e gestão de dados com AWS.
+
+👩‍💻Minha atuação profissional é marcada pela combinação de competências técnicas e comportamentais. Segundo avaliações comportamentais, possuo perfil Criativo e Consciente, que equilibra visão estratégica, foco em resultados tangíveis e capacidade de promover mudanças inovadoras. Minhas principais soft skills incluem:
+
+• Autoconhecimento e autocontrole: Capacidade de planejar, priorizar e executar sob pressão.
+
+• Adaptabilidade: Facilidade em lidar com cenários dinâmicos e complexos.
+
+• Liderança e colaboração: Proatividade e assertividade na liderança de projetos multidisciplinares.
+
+• Organização e planejamento: Gestão eficiente de tarefas, com atenção aos prazos e qualidade.
+
+🧘‍♀️A nível pessoal, sou uma pessoa detalhista, curiosa e ambiciosa, que busca constantemente expandir meus conhecimentos e aplicar soluções criativas aos desafios. Como profissional visionária, valorizo ​​a liberdade de explorar e implementar ideias, sempre com sensibilidade às necessidades do negócio e da equipe.
+
+Com cidadania italiana e experiência em ambientes multiculturais, também possuo inglês e espanhol intermediários, o que me permite atuar em projetos globais.
+
+Estou sempre aberta a novas oportunidades que alinhem minha paixão por tecnologia, dados e gestão estratégica, contribuindo para o sucesso de organizações inovadoras.
 
 ***
 
