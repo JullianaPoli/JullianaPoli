@@ -2,7 +2,7 @@
 icon: id-card
 ---
 
-# Curriculo Juliana Poli
+# Juliana Poli
 
 Data Scientist | Project Manager | PO | Python | AI\
 
@@ -92,14 +92,9 @@ agosto de 2020 - abril de 2021 (9 meses)
 
 * Solucionei problemas de configuração de roteadores para evitar reclamações e garantir conectividade.
 
-#### Emerald Facility Services <a href="#emerald-facility-services" id="emerald-facility-services"></a>
+#### Desenvolvimento Pessoal março de 2019 - outubro de 2019 (8 meses) Dublin, Irlanda <a href="#emerald-facility-services" id="emerald-facility-services"></a>
 
-**Office Service Operative**\
-março de 2019 - outubro de 2019 (8 meses)\
-Dublin, Irlanda
-
-* Atendimento a funcionários e visitantes, gerenciamento de cafeteria e organização dos espaços da Audi.
-* Desenvolvimento de habilidades em inglês e espanhol em ambiente multicultural.
+* Foram 8 meses de desenvolvimento profissional e aperfeiçoamento do Inglês e Espanhol.
 
 #### UniCesumar <a href="#unicesumar" id="unicesumar"></a>
 
