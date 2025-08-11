@@ -13,7 +13,7 @@ My professional performance is marked by my combination of technical and behavio
 
 ### Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:jullianapolli@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+5547992275017)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge\&logo=gmail\&logoColor=red)](mailto:jullianapolli@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=30A3DC)](https://www.linkedin.com/in/julliana-polli/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/+351936731150)
 
 ### Skills
 
